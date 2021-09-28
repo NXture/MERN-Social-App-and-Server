@@ -38,6 +38,8 @@ function PostForm() {
             onChange={onChange}
             value={values.body}
             error={error ? true : false}
+            max={5}
+          
           />
           <Button type="submit" color="teal">
             Submit

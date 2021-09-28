@@ -1,3 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Gluten:wght@600&display=swap");
+
+.header {
+  padding-top: 2%;
+  color: #4a4a80;
+  font-family: "Gluten", cursive;
+}
+
 .page-title {
   display: block !important;
   text-align: center;
